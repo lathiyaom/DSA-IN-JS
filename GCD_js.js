@@ -1,3 +1,4 @@
+// simpl code
 function FindCGD(a, b) {
   let ans = 1;
   for (let i = 2; i < Math.min(a, b); i++) {
@@ -9,3 +10,5 @@ function FindCGD(a, b) {
 }
 
 console.log(FindCGD(12, 20));
+
+
