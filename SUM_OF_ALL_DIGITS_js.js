@@ -1,4 +1,4 @@
-//Sum of  the  all Digites
+// sum of all digits of a number
 function SumOfDigites(n) {
   let ans = 0;
   while (n != 0) {
